@@ -2,7 +2,7 @@
 
 <h2 align='center'>I am Suneel Kumar BVS, a guy who likes to convert and apply ideas into code.</h2>
 
-<h2 align='center'>I’m interested in Computational Chemistry, and AI; and actively working on AI-based molecular design strategies.</h2>
+<h3 align='center'>I’m interested in Computational Chemistry, and AI; and actively working on AI-based molecular design strategies.</h2>
 
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
