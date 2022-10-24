@@ -1,12 +1,9 @@
-- 👋 Hi, My name is Suneel Kumar BVS
-- 👀 I’m interested in Computational Chemistry, and AI
-- 🌱 I’m currently learning AI-based molecular design strategies, and ExplainableAI models
-- 💞️ I’m looking to collaborate on Drug Discovery, and AI
-- 📫 How to reach me by mail or DM on twitter
-
 <h1 align='center'> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
 <h2 align='center'>I am Suneel Kumar BVS, a guy who likes to convert and apply ideas into code.</h2>
+
+<h2 align='center'>I’m interested in Computational Chemistry, and AI; and actively working on AI-based molecular design strategies.</h2>
+
 
 <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
 
