@@ -17,7 +17,7 @@
 - [Website](https://sbvs.me/)
 - [Twitter](https://twitter.com/suneel_bvs)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soum-sr&show_icons=true&hide_border=true" />
+<img align="left" alt="SuneelBVS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suneelbvs&show_icons=true&hide_border=true" />
 
 <!---
 suneelbvs/suneelbvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
