@@ -1,6 +1,6 @@
 <h1 align='center'> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
-<h2 align='center'>I am Suneel, a guy who likes to convert the ideas into code and apply for drug discovery research.</h2>
+<h2 align='center'>I am Suneel, likes to convert the ideas into code and apply for drug discovery research.</h2>
 
 <h4 align='center'>I’m a Computational chemist by training, and interested Deep Learning Strategies. Currently working on AI-based molecular design strategies.</h2>
 
