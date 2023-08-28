@@ -1,13 +1,7 @@
-<h1 align='center'> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
-
-<h2 align='center'>I am Suneel, likes to convert the ideas into code and apply for drug discovery research.</h2>
-
-<h4 align='center'>I’m a Computational chemist by training, and interested Deep Learning Strategies. Currently working on AI-based molecular design strategies.</h2>
-
-
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="300">
-
-<br>
+<h1 align='center'>Hello, World! 🌍</h1>
+<h2 align='center'>I'm Suneel, a Computational Chemist bridging the gap between traditional chemistry and artificial intelligence.</h2>
+<h3 align='center'>With a strong foundation in computational chemistry, I've ventured into the realm of deep learning to revolutionize drug discovery. Harnessing the power of AI, I'm at the forefront of crafting innovative molecular design strategies.</h3>
+<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Molecule GIF" width="400" height="300">
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/suneelbommisetty/)
